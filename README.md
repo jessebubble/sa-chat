@@ -1,38 +1,13 @@
-# Welcome to Remix!
+# San Antonio Chat 
+Your AI-powered guide to exploring the Alamo City
 
-- [Remix Docs](https://remix.run/docs)
+## Ask, Explore, Discover
+<strong>sanantonio.chat</strong> is an innovative chat experience that taps into the power of Artificial Intelligence to unlock the secrets of San Antonio. 
 
-## Development
+<p>
+Ask anything about the city's rich history, vibrant culture, exciting events, or hidden gems, and our friendly AI assistant will provide informative and engaging responses tailored to your interests
+</p>
 
-From your terminal:
-
-```sh
-npm run dev
-```
-
-This starts your app in development mode, rebuilding assets on file changes.
-
-## Deployment
-
-First, build your app for production:
-
-```sh
-npm run build
-```
-
-Then run the app in production mode:
-
-```sh
-npm start
-```
-
-Now you'll need to pick a host to deploy it to.
-
-### DIY
-
-If you're familiar with deploying node applications, the built-in Remix app server is production-ready.
-
-Make sure to deploy the output of `remix build`
-
-- `build/`
-- `public/build/`
+<p>
+Whether you're a lifelong resident or a curious visitor, SanAntonio.chat is your one-stop shop for discovering all that San Antonio has to offer
+</p>
