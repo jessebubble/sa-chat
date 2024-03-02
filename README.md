@@ -1,8 +1,10 @@
-# San Antonio Chat 
+# San Antonio Chat
+
 Your AI-powered guide to exploring the Alamo City
 
 ## Ask, Explore, Discover
-<strong>sanantonio.chat</strong> is an innovative chat experience that taps into the power of Artificial Intelligence to unlock the secrets of San Antonio. 
+
+<strong>sanantonio.chat</strong> is an innovative chat experience that taps into the power of Artificial Intelligence to unlock the secrets of San Antonio.
 
 <p>
 Ask anything about the city's rich history, vibrant culture, exciting events, or hidden gems, and our friendly AI assistant will provide informative and engaging responses tailored to your interests
