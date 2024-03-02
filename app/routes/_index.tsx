@@ -16,12 +16,12 @@ export const meta: MetaFunction = () => {
 export default function Index() {
    return (
       <>
-         <div className="relative mx-auto mt-24 max-w-7xl py-24 text-center">
+         <div className="relative mx-auto mt-24 max-w-7xl py-24 md:text-center">
             <div className="relative z-10 mx-auto max-w-5xl px-4 sm:px-6 lg:px-8">
-               <h1 className="font-display text-basefont-semibold block text-neutral-50">
+               <h1 className="font-display text-base font-semibold block text-neutral-50">
                   San Antonio Chat
                   <span className="font-display mt-6 block text-balance text-5xl font-medium tracking-tight sm:text-6xl">
-                     Ask me anything
+                     Ask me anything...
                   </span>
                </h1>
                <div className="mx-auto mt-6 max-w-3xl text-balance text-xl text-neutral-300">
@@ -37,7 +37,7 @@ export default function Index() {
                      </span>
                   </p>
                </div>
-               <div className="mx-auto mt-10 max-w-sm">
+               <div className="md:mx-auto mt-10 max-w-sm">
                   <input
                      type="text"
                      placeholder="Ask Explore Discover"
